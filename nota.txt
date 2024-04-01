@@ -1,0 +1,7 @@
+inicializamos el proyecto: init
+intalamos nodemon: npm i nodemon --save-dev (se instala en las dependencias)
+se ejecuta con npm run dev
+instalamos dotenv: npm install dotenv, codigo en env.js
+instalamos env-var: para uasar la variables numericas, etc (env.js)
+instalamos express: npm i express (para hacer el servidor)
+
