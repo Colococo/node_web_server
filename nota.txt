@@ -4,4 +4,4 @@ se ejecuta con npm run dev
 instalamos dotenv: npm install dotenv, codigo en env.js
 instalamos env-var: para uasar la variables numericas, etc (env.js)
 instalamos express: npm i express (para hacer el servidor)
-
+para importar de forma moderna usamos module: "type": "module" en el package.json

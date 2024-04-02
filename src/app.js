@@ -1,6 +1,10 @@
 // destructuramos el objeto envs del archivo env.js
-const { envs } = require('./config/env');
-const { startServer } = require('./server/server');
+//require: forma vieja
+//import from metodos modernos
+// const { envs } = require('./config/env');
+import { envs } from './config/env.js';
+// const { startServer } = require('./server/server');
+import { startServer } from './server/server.js';
 
 
 const main = ()=>{
